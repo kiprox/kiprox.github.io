@@ -7,12 +7,6 @@ image: "img/a.jpg"
 date:   2020-12-06 08:12:11
 ---
 
-<ul>
-<li  markdown="1">
-![Logo Jekyll](https://delta.web.id/assets/img/candro-drive.png )
-</li>
-</ul>
-
 ## How to
 
 * Current Version `2.0.0`
