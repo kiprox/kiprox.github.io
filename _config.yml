@@ -1,7 +1,7 @@
 # Site settings
-title: KIPROX Blog
+title: Delta Operator
 description: Modern-Blog A Elegant
 keywords: Modern, Blogging, Fun
-author: Kiprox
-baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+author: Candro
+baseurl: "/" # the subpath of site, e.g. /blog/
+url: "" # the base hostname & protocol for site
