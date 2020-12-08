@@ -7,8 +7,7 @@ image: "img/a.jpg"
 date:   2020-12-08 08:12:11
 ---
 
-
-`Note: The Changes in your workers config can effect later due to cache. Use incognito mode everytime to open the worker URL to overcome that issue.`
+![Developer Digital](https://delta.web.id/assets/img/candro-drive.png)
 
 ## How to
 
