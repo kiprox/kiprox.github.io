@@ -1,6 +1,6 @@
 ---
 title:  "Google Drive Unlimited"
-subtitle: "Support Personal and Team/Shared Drives with Dark Mode."
+subtitle: "Team or Shared Drives with Dark Mode."
 author: "Candro"
 avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
