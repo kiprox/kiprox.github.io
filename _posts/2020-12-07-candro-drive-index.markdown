@@ -7,6 +7,20 @@ image: "img/a.jpg"
 date:   2020-12-06 08:12:11
 ---
 
+
+## Features
+
+- [x] 👑 Page-level caching
+- [x] 🗂 Multi drive switching
+- [x] 🔐 Http Basic Auth
+- [x] 🎯 Paging load
+- [x] 🛠 Markdown render
+- [x] 🖥 Video Online
+- [x] 🎧 Audio Online
+- [x] 🚀 Faster Speed
+
+---
+
 ## How to
 
 * Current Version `2.0.0`
