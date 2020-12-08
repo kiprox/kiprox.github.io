@@ -3,5 +3,8 @@ title: Delta Operator
 description: Modern-Blog A Elegant
 keywords: Modern, Blogging, Fun
 author: Candro
-baseurl: "" # the subpath of site, e.g. /blog/
+baseurl: "/" # the subpath of site, e.g. /blog/
 url: "" # the base hostname & protocol for site
+
+# Permalink
+permalink: /:title
