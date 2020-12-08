@@ -7,7 +7,7 @@ image: "img/a.jpg"
 date:   2020-12-08 08:12:11
 ---
 
-![Developer Digital](https://delta.web.id/assets/img/candro-drive.png)
+![Developer Digital](https://delta.web.id/assets/img/candro-drive.png){:class="img-responsive"}
 
 ## How to
 
