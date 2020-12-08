@@ -4,10 +4,14 @@ subtitle: "Support Personal and Team/Shared Drives with Dark Mode."
 author: "Candro"
 avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
-date:   2020-12-08 08:12:11
+date:   2020-12-06 08:12:11
 ---
 
-![Developer Digital](https://delta.web.id/assets/img/candro-drive.png){:class="img-responsive"}
+<ul>
+<li  markdown="1">
+![Logo Jekyll](https://delta.web.id/assets/img/candro-drive.png )
+</li>
+</ul>
 
 ## How to
 
