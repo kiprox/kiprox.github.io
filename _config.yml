@@ -5,4 +5,3 @@ keywords: Modern, Blogging, Fun
 author: Candro
 baseurl: "" # the subpath of site, e.g. /blog/
 url: "" # the base hostname & protocol for site
-permalink: pretty
